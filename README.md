@@ -4,6 +4,7 @@ https://github.com/android/platform_development/tree/master/samples/SampleSyncAd
 
 2. server 
 https://samplesyncadapter2.appspot.com/
+
 * UserName: user, Passwd: test
 * The Sync of the Server in [url](https://samplesyncadapter2.appspot.com/sync)  can't work when client sends some dirty data. So the synchronization from client to server can't be tested.
 * You can reset the database in the server using the [url](https://samplesyncadapter2.appspot.com/reset_database)
@@ -27,21 +28,26 @@ https://samplesyncadapter2.appspot.com/
 #####3. Other Apps
 > Access of other apps
 
+
+
 ###Sign in Process
 ![](https://raw.githubusercontent.com/fitzlee/SampleSyncAdapter/master/document/Signin.jpg)
-
 > The process of Sign-in is simple, including verifying the username and passwd, creating account in AccountManager and returning successful or error message to authenticator.
 
-
 > To write a demo and make my idea clear, I have analysed deeply the open source code of SampleSyncAdapter and other demos about ContactContract apis. You can see more information from this repository, [ContactSyncAdapter](https://github.com/fitzlee/ContactSyncAdapter).
+
 
 
 ###Synchronize Contacts Process
 ![](https://raw.githubusercontent.com/fitzlee/SampleSyncAdapter/master/document/Synchronize.jpg)
 
 > There are two key aspects in Synchronization of contacts,
+
 > 1. server, NetworkUtilities(blockingGetAuthToken， SyncContacts)
+
 > 2. client, ContactManager ContactOperations BatchOperation (add, update and delete contacts);  AccountManger ContentResolver (query db).
+
+
 
 ###Apk Image(you can download in release)
 
