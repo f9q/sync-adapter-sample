@@ -1,0 +1,7 @@
+<resources>
+    <!-- v19 4.4 Material design Base application theme. -->
+    <style name="AppTheme" parent="@style/BaseAppTheme">
+        <item name="android:windowTranslucentNavigation" >true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>
