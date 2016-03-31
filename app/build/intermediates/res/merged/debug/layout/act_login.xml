@@ -148,4 +148,4 @@
             android:onClick="handleSignUp" />
     </LinearLayout>
 </LinearLayout>
-<!-- From: file:/D:/public/ContactSyncAdapter/SdkDemo/sdkdemo/app/src/main/res/layout/act_login.xml -->
+<!-- From: file:/D:/public/SampleSyncAdapter/app/src/main/res/layout/act_login.xml -->

@@ -78,7 +78,7 @@ public class SignUpActivity extends AppCompatActivity{
      * errors are presented and no server checking is made.
      */
     private boolean checkInputAndPermission() {
-
+        //TODO check
         // Reset errors.
         mEmailView.setError(null);
         mCellPhoneView.setError(null);
@@ -127,6 +127,7 @@ public class SignUpActivity extends AppCompatActivity{
         return email.contains("@");
     }
 
+    //TODO check
     private boolean isNameValid(String name){
         return false;
     }

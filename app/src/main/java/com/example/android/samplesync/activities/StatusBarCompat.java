@@ -9,9 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 
-/**
- * Created by zhy on 15/9/21.
- */
 public class StatusBarCompat
 {
     private static final int INVALID_VAL = -1;

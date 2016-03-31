@@ -26,4 +26,4 @@
     android:smallIcon="@drawable/icon"
     android:label="@string/label"
 />
-<!-- From: file:/D:/public/ContactSyncAdapter/SdkDemo/sdkdemo/app/src/main/res/xml/authenticator.xml -->
+<!-- From: file:/D:/public/SampleSyncAdapter/app/src/main/res/xml/authenticator.xml -->

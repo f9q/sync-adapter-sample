@@ -11,4 +11,4 @@
     app:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
     android:background="?attr/colorPrimary"/>
 
-<!-- From: file:/D:/public/ContactSyncAdapter/SdkDemo/sdkdemo/app/src/main/res/layout/toolbar_layout.xml -->
+<!-- From: file:/D:/public/SampleSyncAdapter/app/src/main/res/layout/toolbar_layout.xml -->

@@ -1,228 +1,228 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:18:1-159:12
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:18:1-159:12
 	package
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:19:5-45
-		INJECTED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:19:5-45
+		INJECTED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:21:5-30
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:21:5-30
 	android:versionCode
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:20:5-28
-		INJECTED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:18:11-69
 uses-sdk
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:23:5-25:41
-MERGED from [com.android.support:appcompat-v7:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:25:9-38
-		INJECTED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:25:9-38
+		INJECTED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:24:9-34
-		INJECTED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:24:9-34
+		INJECTED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:27:5-71
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:27:5-71
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:27:22-68
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:27:22-68
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:28:5-74
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:28:5-74
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:28:22-71
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:28:22-71
 uses-permission#android.permission.MANAGE_ACCOUNTS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:29:5-74
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:29:5-74
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:29:22-71
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:29:22-71
 uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:30:5-80
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:30:5-80
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:30:22-77
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:30:22-77
 uses-permission#android.permission.INTERNET
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:31:5-67
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:31:5-67
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:31:22-64
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:31:22-64
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:32:5-73
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:32:5-73
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:32:22-70
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:32:22-70
 uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:33:5-72
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:33:5-72
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:33:22-69
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:33:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:34:5-73
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:34:5-73
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:34:22-70
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:34:22-70
 uses-permission#android.permission.READ_SYNC_STATS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:35:5-74
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:35:5-74
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:35:22-71
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:35:22-71
 uses-permission#android.permission.READ_SYNC_SETTINGS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:36:5-77
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:36:5-77
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:36:22-74
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:36:22-74
 uses-permission#android.permission.WRITE_SYNC_SETTINGS
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:37:5-78
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:37:5-78
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:37:22-75
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:37:22-75
 uses-permission#android.permission.READ_SOCIAL_STREAM
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:38:5-77
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:38:5-77
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:38:22-74
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:38:22-74
 uses-permission#android.permission.WRITE_SOCIAL_STREAM
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:39:5-78
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:39:5-78
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:39:22-75
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:39:22-75
 uses-permission#android.permission.READ_PROFILE
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:40:5-71
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:40:5-71
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:40:22-68
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:40:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:41:5-81
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:41:5-81
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:41:22-78
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:41:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:42:5-75
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:42:5-75
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:42:22-72
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:42:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:43:5-80
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:43:5-80
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:43:22-77
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:43:22-77
 application
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:45:5-157:19
-MERGED from [com.android.support:appcompat-v7:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:45:5-157:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] D:\public\SampleSyncAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:47:9-38
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:47:9-38
 	android:icon
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:46:9-38
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:46:9-38
 	android:theme
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:48:9-40
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:48:9-40
 service#com.example.android.samplesync.authenticator.AuthenticationService
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:51:9-61:19
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:51:9-61:19
 	android:exported
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:53:13-36
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:52:13-64
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:52:13-64
 intent-filter#android.accounts.AccountAuthenticator
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:54:13-56:29
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:54:13-56:29
 action#android.accounts.AccountAuthenticator
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:55:17-80
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:55:17-80
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:55:25-77
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:55:25-77
 meta-data#android.accounts.AccountAuthenticator
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:58:13-60:57
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:58:13-60:57
 	android:resource
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:60:17-54
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:60:17-54
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:59:17-69
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:59:17-69
 service#com.example.android.samplesync.syncadapter.SyncService
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:63:9-76:19
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:63:9-76:19
 	android:exported
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:65:13-36
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:65:13-36
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:64:13-52
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:64:13-52
 intent-filter#android.content.SyncAdapter
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:66:13-68:29
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:66:13-68:29
 action#android.content.SyncAdapter
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:67:17-70
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:67:17-70
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:67:25-67
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:67:25-67
 meta-data#android.content.SyncAdapter
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:70:13-72:55
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:70:13-72:55
 	android:resource
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:72:17-52
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:72:17-52
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:71:17-59
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:71:17-59
 meta-data#android.provider.CONTACTS_STRUCTURE
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:73:13-75:52
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:73:13-75:52
 	android:resource
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:75:17-49
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:75:17-49
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:74:17-67
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:74:17-67
 service#com.example.android.samplesync.notifier.NotifierService
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:79:9-87:19
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:79:9-87:19
 	android:exported
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:81:13-36
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:81:13-36
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:80:13-53
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:80:13-53
 activity#com.example.android.samplesync.authenticator.AuthenticatorActivity
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:89:9-100:20
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:89:9-100:20
 	android:label
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:93:13-54
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:93:13-54
 	android:excludeFromRecents
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:92:13-46
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:92:13-46
 	android:configChanges
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:91:13-48
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:91:13-48
 	android:theme
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:94:13-49
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:94:13-49
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:90:13-64
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:90:13-64
 activity#com.example.android.samplesync.activities.InviteContactActivity
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:102:9-115:20
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:102:9-115:20
 	android:theme
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:104:13-56
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:104:13-56
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:103:13-61
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:103:13-61
 intent-filter#com.android.contacts.action.INVITE_CONTACT
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:110:13-114:29
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:110:13-114:29
 action#com.android.contacts.action.INVITE_CONTACT
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:111:17-85
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:111:17-85
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:111:25-82
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:111:25-82
 data
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:113:17-76
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:113:17-76
 	android:mimeType
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:113:23-73
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:113:23-73
 activity#com.example.android.samplesync.activities.ViewGroupActivity
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:117:9-131:20
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:117:9-131:20
 	android:theme
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:119:13-56
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:119:13-56
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:118:13-57
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:118:13-57
 intent-filter#android.intent.action.VIEW
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:126:13-130:29
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:126:13-130:29
 action#android.intent.action.VIEW
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:127:17-69
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:127:17-69
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:127:25-66
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:127:25-66
 activity#com.example.android.samplesync.activities.EditContactActivity
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:133:9-149:20
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:133:9-149:20
 	android:label
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:136:13-64
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:136:13-64
 	android:theme
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:134:13-44
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:134:13-44
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:135:13-59
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:135:13-59
 intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:142:13-148:29
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:142:13-148:29
 category#android.intent.category.DEFAULT
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:147:17-76
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:147:17-76
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:147:27-73
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:147:27-73
 activity#com.example.android.samplesync.activities.SignUpActivity
-ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:151:9-155:20
+ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:151:9-155:20
 	android:label
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:154:13-59
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:154:13-59
 	android:theme
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:152:13-44
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:152:13-44
 	android:name
-		ADDED from D:\public\ContactSyncAdapter\SdkDemo\sdkdemo\app\src\main\AndroidManifest.xml:153:13-54
+		ADDED from D:\public\SampleSyncAdapter\app\src\main\AndroidManifest.xml:153:13-54

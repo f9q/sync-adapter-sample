@@ -84,6 +84,7 @@ public class EditContactActivity extends AppCompatActivity{
     }
 
     private boolean save(){
+        //TODO need permission check
         updataCotact(mUri);
         return true;
     }
@@ -115,7 +116,7 @@ public class EditContactActivity extends AppCompatActivity{
      * errors are presented and no server checking is made.
      */
     private void checkInputAndPermission() {
-
+        //TODO check
         // Reset errors.
         mEmailView.setError(null);
         mCellPhoneView.setError(null);
@@ -163,6 +164,7 @@ public class EditContactActivity extends AppCompatActivity{
         return email.contains("@");
     }
 
+    //TODO check
     private boolean isNameValid(String name){
         return false;
     }

@@ -6,4 +6,4 @@
         app:showAsAction="always"
         android:title="@string/menu_ok">
     </item>
-</menu><!-- From: file:/D:/public/ContactSyncAdapter/SdkDemo/sdkdemo/app/src/main/res/menu/sign_up.xml -->
+</menu><!-- From: file:/D:/public/SampleSyncAdapter/app/src/main/res/menu/sign_up.xml -->

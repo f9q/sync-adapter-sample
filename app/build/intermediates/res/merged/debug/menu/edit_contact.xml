@@ -6,4 +6,4 @@
         app:showAsAction="always"
         android:title="@string/menu_save">
     </item>
-</menu><!-- From: file:/D:/public/ContactSyncAdapter/SdkDemo/sdkdemo/app/src/main/res/menu/edit_contact.xml -->
+</menu><!-- From: file:/D:/public/SampleSyncAdapter/app/src/main/res/menu/edit_contact.xml -->

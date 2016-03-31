@@ -30,4 +30,4 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>
-<!-- From: file:/D:/public/ContactSyncAdapter/SdkDemo/sdkdemo/app/src/main/res/layout/invite_contact_activity.xml -->
+<!-- From: file:/D:/public/SampleSyncAdapter/app/src/main/res/layout/invite_contact_activity.xml -->

@@ -310,6 +310,8 @@ public class ContactManager {
      */
     public static void addContactLocal(Context context, ContentResolver resolver, String accountName, RawContact rawContact){
         final BatchOperation batchOperation = new BatchOperation(context, resolver);
+        //TODO must have a groupId.
+//        long groupId = ContactManager.ensureSampleGroupExists(context, accountName);
         addContact(context, accountName, rawContact, 0, false, batchOperation);
         batchOperation.execute();
     }
